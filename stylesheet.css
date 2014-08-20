@@ -1,0 +1,22 @@
+* {
+	font-family: Garamond;
+	line-height: 1;
+}
+.categories {
+	text-decoration: underline;
+}
+.name {
+	text-align: center;
+}
+.location_date {
+	float: right;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	text-decoration: underline;
+	font-weight: bold;
+	color: blue;
+}

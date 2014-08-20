@@ -1,0 +1,72 @@
+* {
+	font-family: Garamond;
+	line-height: 1;
+	margin: 0.5px auto;
+}
+header {
+	background-color: #F0F0F0;
+	width: 890px;
+	padding: 10px;
+	height: 200px;
+}
+.top {
+	display: inline-block;
+}
+#sneha {
+	position: relative;
+	border-radius: 100%;
+	left: 150px;
+	vertical-align: middle;
+	top: 5px;
+}
+.name {
+	position: relative;
+	left: 100px;
+	width: 500px;
+	top: -150px;
+	margin-bottom: 5px;
+
+}
+.location_date {
+	float: right;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	text-decoration: underline;
+	font-weight: bold;
+	color: blue;
+}
+.break {
+	width: 100%;
+	height: 1px;
+	background-color: gray;
+}
+div {
+	width: 890px;
+	padding: 10px;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+.content {
+	background-color: #EBFFFF;
+}
+.box {
+	width: 196px;
+	position: relative;
+	display: inline-block;
+	vertical-align: text-top;
+	margin-right: 3px;
+	margin-top: -10px;
+}
+#experience {
+	text-decoration: underline;
+}
+#linkedin {
+	width: 20px;
+	height: 20px;
+	border-radius:2px;
+	vertical-align: bottom;
+}
